@@ -3,7 +3,7 @@
 <head>
     <title>Menampilkan Data Tabel MySQL</title>
     <style>
-        body {font-family: "Times new roman", arial;}
+        body {font-family: "Arial Black", arial;}
         table {border-collapse: collapse;}
         th, td {font-size: 13px; border: 1px solid #DEDEDE; padding: 3px 5px; color: #303030;}
         th {background: #CCCCCC; font-size: 12px; border-color: #B0B0B0;}
